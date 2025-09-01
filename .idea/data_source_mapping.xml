@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ed238505-cf0b-4499-88c5-100cc72bf799/TASK2CONSOLE sql" value="ed238505-cf0b-4499-88c5-100cc72bf799" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ed238505-cf0b-4499-88c5-100cc72bf799/Task5console.sql" value="ed238505-cf0b-4499-88c5-100cc72bf799" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ed238505-cf0b-4499-88c5-100cc72bf799/aciqlamali_consol.sql" value="ed238505-cf0b-4499-88c5-100cc72bf799" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ed238505-cf0b-4499-88c5-100cc72bf799/console.sql" value="ed238505-cf0b-4499-88c5-100cc72bf799" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ed238505-cf0b-4499-88c5-100cc72bf799/console_1.sql" value="ed238505-cf0b-4499-88c5-100cc72bf799" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ed238505-cf0b-4499-88c5-100cc72bf799/console_2.sql" value="ed238505-cf0b-4499-88c5-100cc72bf799" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ed238505-cf0b-4499-88c5-100cc72bf799/console_3.sql" value="ed238505-cf0b-4499-88c5-100cc72bf799" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ed238505-cf0b-4499-88c5-100cc72bf799/mentor_time.sql" value="ed238505-cf0b-4499-88c5-100cc72bf799" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/ed238505-cf0b-4499-88c5-100cc72bf799/task2console.sql" value="ed238505-cf0b-4499-88c5-100cc72bf799" />
   </component>
 </project>

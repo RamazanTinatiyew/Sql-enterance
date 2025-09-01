@@ -10,10 +10,22 @@
       <user-name>postgres</user-name>
       <schema-mapping>
         <introspection-scope>
-          <node kind="database" qname="postgres">
-            <node kind="schema">
-              <name qname="public" />
-              <name qname="author" />
+          <node negative="1">
+            <node kind="database" negative="1" />
+            <node kind="database" qname="@">
+              <node kind="schema" negative="1" />
+            </node>
+            <node kind="database">
+              <name qname="mentor_time" />
+              <name qname="task3" />
+              <name qname="task5" />
+              <node kind="schema" qname="@" />
+            </node>
+            <node kind="database">
+              <name qname="postgres" />
+              <name qname="task1" />
+              <name qname="task2" />
+              <node kind="schema" qname="public" />
             </node>
           </node>
         </introspection-scope>
